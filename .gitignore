@@ -1,4 +1,9 @@
-/Cargo.lock
-/.idea/
-/target/
-.DS_Store
+# Сміття компіляції
+[Bb]in/
+[Oo]bj/
+
+# Налаштування IDE та локальні кеші
+.vs/
+.idea/
+*.user
+*.suo
