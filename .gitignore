@@ -7,3 +7,5 @@
 .idea/
 *.user
 *.suo
+# Системні файли macOS
+.DS_Store
